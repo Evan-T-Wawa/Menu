@@ -1,4 +1,9 @@
-h1{
+body{
+    background-color: #f7f2e4;
+}
+
+.RName{
     font-family: "Sigmar", serif;
-    color:yellow;
+    color: #4154bf;
+    font-size: 200px;
 }
