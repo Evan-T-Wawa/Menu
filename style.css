@@ -2,24 +2,56 @@ body{
     background-color: #f7f2e4;
 }
 
+.child{
+    display: inline-block;
+}
+
 .RName{
-    color: #4154bf;
     font-size: 50px;
     letter-spacing: 6px;
     margin-left: 100px;
     margin-top: 100px;
-    width: 30%;
+    width: 450px;
     text-align: center;
 }
 
 h1{
     margin:0;
     line-height: 0.9;
-    font-family: "Sigmar", serif;
 }
 
 h2{
-    font-family: Arial, sans-serif;
-    font-weight: 300;
-    font-size: 25px;
+    font-weight: 400;
+    font-size: 40px;
+    letter-spacing: 3px;
+    margin-top: 10px;
+}
+
+.discription{
+    float: right;
+    margin-right: 150px;
+}
+
+h3{
+    font-size: 40px;
+    letter-spacing: 3px;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+
+.title_font{
+    font-family: "Sigmar", serif;
+    color: #4154bf;
+}
+
+.body-text{
+    font-family: "Zain", serif;
+    color: #4154bf;
+}
+
+.intro{
+    margin-top: -20px;
+    font-size: 21px;
+    width: 420px;
+    line-height: 1.2;
 }
