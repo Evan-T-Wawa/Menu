@@ -55,3 +55,17 @@ h3{
     width: 420px;
     line-height: 1.2;
 }
+
+img{
+    width: 300px;
+}
+
+.img_container{
+    margin-bottom: 0;
+}
+
+.center{
+    width: 1230px;
+    margin: auto;
+    border: solid;
+}
