@@ -57,7 +57,10 @@ h3{
 }
 
 img{
-    width: 300px;
+    width: 280px;
+    margin-right: 20px;
+    margin-top: -80px;
+    margin-bottom: 80px;
 }
 
 .img_container{
@@ -67,5 +70,14 @@ img{
 .center{
     width: 1230px;
     margin: auto;
-    border: solid;
+    padding-left: 20px;
+}
+
+.number{
+margin-bottom: -20px;
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+    word-spacing: 282px;
+    margin-left: 10px;
 }
