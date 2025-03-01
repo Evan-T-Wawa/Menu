@@ -83,3 +83,23 @@ margin-bottom: -20px;
     word-spacing: 282px;
     margin-left: 10px;
 }
+
+.menu{
+    margin-top: -20px;
+    text-align: right;
+    margin-right: 600px;
+}
+
+.item-container{
+    float:right;
+    width: 500px;
+    margin-right: 223px;
+    margin-bottom: 100px;
+}
+
+.item{
+    font-size: 20px;
+    display: inline-block; 
+    width: 230px;
+    margin: 0;
+}
